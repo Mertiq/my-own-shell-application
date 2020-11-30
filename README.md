@@ -24,7 +24,7 @@ The program will give a warning for incorrectly entered parameters.
 
 ## Running the tests
 
-Download files ,compile and run myshell
+Download files, compile and run myshell
 
 ## Screenshots
 
