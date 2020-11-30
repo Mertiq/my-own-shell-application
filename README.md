@@ -22,13 +22,14 @@ The first parameter can only be 'cikar' and 'topla'. Second and third parameters
 
 The program will give a warning for incorrectly entered parameters.
 
-### Prerequisites
-
-
-
 ## Running the tests
 
+Download files ,compile and run myshell
 
+## Screenshots
+
+![Image](https://mertiq.github.io/my-own-shell-application/1.png)
+![Image](https://mertiq.github.io/my-own-shell-application/2.png)
 
 ## Built With
 
@@ -37,3 +38,4 @@ The program will give a warning for incorrectly entered parameters.
 ## Acknowledgments
 
 * [Mertiq](https://github.com/Mertiq)
+* [Geeks for Geeks](https://www.geeksforgeeks.org/making-linux-shell-c/)
